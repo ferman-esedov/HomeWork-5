@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("/Images/girl.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+
+.main_img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.main__ul{
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+}
+
+.footer{
+    background-color: #2dc071;
+    width: 100%;
+    height: 13.96rem;
+}
+
+.footer__ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    column-gap: 10rem;
+    padding: 0;
+    margin: 0;
+    padding-top: 3.5rem;
+    text-align: center;
+
+}

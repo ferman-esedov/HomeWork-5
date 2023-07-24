@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.mainn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.input_mail{
+    width: 25rem;
+    height: 2.2rem;
+    border-radius: 5px;
+    border-color: lightgray;
+}
+
+.input_submit{
+    background-color: #23a6f0;
+    border: none;
+    color: white;
+    width: 25rem;
+    height: 2.6rem;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.h2{
+    font-size: 40px;
+    margin: 20px 0 0 0;
+    padding: 0px;
+}
+
+.color-gray{
+    color: gray;
+}
+
+.text{
+    font-size: 20px;
+}
+
+.text-smaller{
+    font-size: small;
+}

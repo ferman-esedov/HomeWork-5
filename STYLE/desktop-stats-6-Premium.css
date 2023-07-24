@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+
+.header{
+    text-align: center;
+}
+
+.color-gray{
+    color: gray;
+}
+
+.main__ul{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    column-gap: 1.5rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.main__ul-li{
+    background-color: #fff;
+    padding: 25px;
+    text-align: center;
+}
+
+.main__ul-li-img{
+    margin: 0;
+    padding: 0;
+    width: 40px;
+}
+
+.main__ul-li-h2{
+    margin: 0px;
+    padding: 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.main__ul-li-p{
+    margin: 0px;
+    padding: 0;
+}
+
